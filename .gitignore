@@ -1,7 +1,8 @@
 .DS_Store
-MongoExample/node_modules
-MongoExample/package-lock.json
-my-project/node_modules
-my-project/package-lock.json
-MyFirstBot/node_modules
-MyFirstBot/package-lock.json
+
+node_modules
+
+package-lock.json
+
+react/cinta-roja-rules/README.md
+
